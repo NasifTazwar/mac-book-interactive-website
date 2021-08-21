@@ -111,6 +111,7 @@ document.getElementById('apply-button').addEventListener('click',function(){
     
     checkPromoCode(promoCodeInputTextLower);
     
+    promoCodeInput.value ='';
 })
 
 
